@@ -52,3 +52,23 @@ img {
   border-radius: 50%;
   padding: 30px
 }
+
+/* Regole smartphone e tablet */
+@media all and (max-width:992px) {
+
+    img {
+      max-height: 150px;
+    }
+
+    .box h1 {
+        font-size: 50px;
+    }
+
+    .box h3 {
+        font-size: 26px;
+    }
+
+    .box p {
+        font-size: 20px;
+    }
+}
