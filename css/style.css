@@ -5,3 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* Regole di debug */
+.box {
+    height: 250px;
+    background-color: #c9d2c9;
+    border: solid 1px #fff;
+}
